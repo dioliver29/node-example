@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "example",
+  "version": "1.0.0",
+  "main": "1-js-types.js",
+  "scripts": {
+    "test": "node ./src/tale.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
