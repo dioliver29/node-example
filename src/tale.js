@@ -42,14 +42,3 @@ function newYear(names) {
 
 console.log(newYear(dedMoroz))
 console.log(newYear(snegurochka))
-
-
-/* function diffTwoNumber(a, b) {
-    if (isNaN(a) === false) {
-        if (isNaN(b) === false) {
-            console.log(a - b);
-        }
-    } else {
-        console.log('a and b must have type number');
-    }
-} */
